@@ -17,7 +17,7 @@
 <!-- GIF da caveirinha -->
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRydHp3YjQwc3doMGxlY3djd3djMzE3aHF1eG5taGozZXhiMGpuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zB9vrVYNTafMx7HBpL/giphy.gif" width="350px"/>
+  <img src="https://images.steamusercontent.com/ugc/178285712658375004/82B5EC74C09CD69573C86E4FB997BACA9C323D58/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500px"/>
 </div>
 
 <div align="center">
