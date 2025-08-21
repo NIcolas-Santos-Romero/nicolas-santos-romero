@@ -40,19 +40,7 @@
 
 ### `> Status Atual`
 
-```javascript
-const nicolas = {
-  status: "Online",
-  primary_stack: ["Python", "JavaScript", "PHP"],
-  secondary_stack: ["HTML", "CSS", "SQL"],
-  currently_learning: {
-    area: "Inteligência Artificial",
-    topics: ["Machine Learning", "LLMs", "Cyber Security"]
-  },
-  tools: "Git", "GitHub", "VSCode",
-  mission: "Buscando os maiores feitos."
-};
-```
+
 
 ---
 
