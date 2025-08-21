@@ -4,13 +4,13 @@
 <pre>
  ███▄    █   ██▓  ▄████▄  ▒█████    ██▓    ▄▄▄       ██████
  ██ ▀█   █ ▒▓██▒ ▒██▀ ▀█ ▒██▒  ██▒ ▓██▒   ▒████▄   ▒██    ▒
-▓██  ▀█ ██▒▒▒██▒ ▒▓█    ▄▒██░  ██▒ ▒██░   ▒██  ▀█▄ ░ ▓██▄
-▓██▒  ▐▌██▒░░██░▒▒▓▓▄ ▄██▒██   ██░ ▒██░   ░██▄▄▄▄██  ▒   ██▒
-▒██░   ▓██░░░██░░▒ ▓███▀ ░ ████▓▒░▒░██████▒▓█   ▓██▒██████▒▒
-░ ▒░   ▒ ▒  ░▓  ░░ ░▒ ▒  ░ ▒░▒░▒░ ░░ ▒░▓  ░▒▒   ▓▒█▒ ▒▓▒ ▒ ░
-░ ░░   ░ ▒░░ ▒ ░   ░  ▒    ░ ▒ ▒░ ░░ ░ ▒  ░ ░   ▒▒ ░ ░▒  ░ ░
-   ░   ░ ░ ░ ▒ ░ ░       ░ ░ ░ ▒     ░ ░    ░   ▒  ░  ░  ░
-         ░   ░   ░ ░         ░ ░  ░    ░        ░        ░
+ ▓██  ▀█ ██▒▒▒██ ▒▓     ▄▒██░  ██▒ ▒██░   ▒██  ▀█▄ ░ ▓██▄
+ ▓██▒  ▐▌██▒░░██░ ▒▓▓▄ ▄██▒██   ██░ ▒██░   ░██▄▄▄▄██  ▒   ██▒
+ ▒██░   ▓██░░░██░ ▒ ▓███▀ ░ ████▓▒░▒░██████▒▓█   ▓██▒██████▒▒
+ ░ ▒░   ▒ ▒  ░▓   ░ ░▒ ▒  ░ ▒░▒░▒░ ░░ ▒░▓  ░▒▒   ▓▒█▒ ▒▓▒ ▒ ░
+ ░ ░░   ░ ▒░░ ▒ ░   ░  ▒    ░ ▒ ▒░ ░░ ░ ▒  ░ ░   ▒▒ ░ ░▒  ░ ░
+    ░   ░ ░ ░ ▒ ░ ░       ░ ░ ░ ▒     ░ ░    ░   ▒  ░  ░  ░
+          ░   ░   ░ ░         ░ ░  ░    ░        ░        ░
 </pre>
 </div>
 
@@ -20,10 +20,10 @@
   <img src="https://images.steamusercontent.com/ugc/178285712658375004/82B5EC74C09CD69573C86E4FB997BACA9C323D58/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500px"/>
 </div>
 
+<!--Texto movel-->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=%3E+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Suporte+de+TI+%7C+SMSUB-COTI;%3E" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1FF71D&center=true&vCenter=true&width=628&height=63&lines=%3E+SUPORTE+DE+TI+%7C+SMSUB+-+COTI;%3E+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -31,12 +31,11 @@
 ### `> Sobre Mim`
 
 ```yaml
-- ID: Nicolas S. R.
-- Pronomes: Ele/Dele
-- Formação: Análise e Desenvolvimento de Sistemas (ADS) @ Uninove
-- Localização: São Paulo, Brasil
-- Ocupação: Suporte de TI @ SMSUB-COTI
-- Contato: nicolas.santos200601@gmail.com
+- ID: Nicolas S. Romero;
+- Formação: Análise e Desenvolvimento de Sistemas (ADS) @ Uninove;
+- Localização: São Paulo, Brasil;
+- Ocupação: Suporte de TI @ SMSUB-COTI;
+- Contato: nicolas.santos200601@gmail.com;
 ```
 
 ### `> Status Atual`
@@ -50,8 +49,8 @@ const nicolas = {
     area: "Inteligência Artificial",
     topics: ["Machine Learning", "LLMs", "Cyber Security"]
   },
-  tools: ["Git", "VSCode", "Linux", "Docker", "Nmap"],
-  mission: "Buscando automatizar o caos e desenvolver soluções inovadoras."
+  tools: "Git", "GitHub", "VSCode",
+  mission: "Buscando os maiores feitos."
 };
 ```
 
@@ -61,7 +60,7 @@ const nicolas = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,git,vscode,&theme=dark" alt="Skill Icons"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,vscode,&theme=dark" alt="Skill Icons"/>
   </a>
 </p
 
