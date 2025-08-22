@@ -17,7 +17,7 @@
 <!-- GIF da caveirinha -->
 
 <div align="center">
-  <img src="https://images.steamusercontent.com/ugc/178285712658375004/82B5EC74C09CD69573C86E4FB997BACA9C323D58/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500px"/>
+  <img src="https://c.tenor.com/46SpTe8lvXIAAAAd/tenor.gif" width="400px"/>
 </div>
 
 <!--Texto movel-->
